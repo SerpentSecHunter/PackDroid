@@ -11,10 +11,23 @@
 ![Build](https://img.shields.io/badge/Build-Passing-success)
 [![Stars](https://img.shields.io/github/stars/SerpentSecHunter/PackDroid?style=social)](https://github.com/SerpentSecHunter/PackDroid/stargazers)
 
-**PackDroid** adalah aplikasi Android pengelola file dan arsip yang lengkap, cepat, dan modern.  
-Dibangun dengan Jetpack Compose + Material3, mendukung hampir semua format arsip populer.
+## 📥 Download
 
-[📥 Download APK](#-download) · [✨ Fitur](#-fitur-utama) · [🛠️ Build](#%EF%B8%8F-cara-build) · [👨‍💻 Developer](#-developer)
+**Versi Terbaru: v1.0.0**
+
+Aplikasi sudah tersedia dalam dua format. Silakan unduh sesuai kebutuhan:
+
+| Nama File | Deskripsi | Tautan Unduh |
+|-----------|-----------|--------------|
+| `app-release.apk` | File APK untuk instalasi langsung di perangkat Android. | [⬇️ Unduh APK](./releases/app-release.apk) |
+| `app-release.aab` | Android App Bundle untuk developer atau upload ke Google Play Console. | [⬇️ Unduh AAB](./releases/app-release.aab) |
+
+**Cara Install APK:**
+1. Unduh file `app-release.apk` dari tautan di atas.
+2. Buka file tersebut di perangkat Android Anda.
+3. Jika diminta, izinkan instalasi dari sumber tidak dikenal.
+4. Ikuti petunjuk instalasi hingga selesai.
+5. Buka aplikasi **PackDroid** yang telah terpasang.
 
 ---
 
