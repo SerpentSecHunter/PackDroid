@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PackDroid</string>
+
+    <!-- Navigasi -->
+    <string name="nav_files">File</string>
+    <string name="nav_archives">Arsip</string>
+    <string name="nav_settings">Pengaturan</string>
+
+    <!-- Aksi -->
+    <string name="action_extract">Ekstrak</string>
+    <string name="action_compress">Kompres</string>
+    <string name="action_copy">Salin</string>
+    <string name="action_move">Pindah</string>
+    <string name="action_delete">Hapus</string>
+    <string name="action_rename">Ganti Nama</string>
+    <string name="action_properties">Properti</string>
+    <string name="action_cancel">Batal</string>
+    <string name="action_ok">OK</string>
+    <string name="action_select_all">Pilih Semua</string>
+
+    <!-- Label -->
+    <string name="label_password">Kata Sandi</string>
+    <string name="label_destination">Folder Tujuan</string>
+    <string name="label_format">Format</string>
+    <string name="label_size">Ukuran</string>
+    <string name="label_date">Tanggal</string>
+    <string name="label_path">Lokasi</string>
+    <string name="label_files">File</string>
+    <string name="label_folders">Folder</string>
+
+    <!-- Pesan -->
+    <string name="msg_extracting">Sedang mengekstrak\u2026</string>
+    <string name="msg_compressing">Sedang mengompres\u2026</string>
+    <string name="msg_success_extract">Ekstraksi berhasil!</string>
+    <string name="msg_success_compress">Kompresi berhasil!</string>
+    <string name="msg_error_extract">Gagal mengekstrak: %1$s</string>
+    <string name="msg_error_compress">Gagal mengompres: %1$s</string>
+    <string name="msg_password_required">File ini dilindungi kata sandi</string>
+    <string name="msg_wrong_password">Kata sandi salah</string>
+    <string name="msg_delete_confirm">Hapus %1$d item yang dipilih?</string>
+    <string name="msg_empty_folder">Folder kosong</string>
+    <string name="msg_permission_required">Izin akses storage diperlukan</string>
+
+    <!-- Tema -->
+    <string name="theme_dark">Gelap</string>
+    <string name="theme_light">Terang</string>
+    <string name="theme_auto">Otomatis</string>
+
+    <!-- Bahasa -->
+    <string name="lang_id">Indonesia</string>
+    <string name="lang_en">English</string>
+</resources>
